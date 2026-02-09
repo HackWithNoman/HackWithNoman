@@ -1,6 +1,6 @@
 # Hi, I'm Noman Ahmed 👋
 
-**Frontend Developer 👨‍💻 Full-Stack Enthusiast | Building projects | Sharing my journey**
+[![Md. Noman Miah](https://i.postimg.cc/d3gJynjV/social-cover.png)](https://github.com/HackWithNoman)
 
 I build high-performance, accessible user interfaces and document my journey of mastering the full-stack ecosystem. I’m currently focused on sharpening my Back-End skills while delivering clean, pixel-perfect Front-End code.
 
