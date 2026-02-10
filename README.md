@@ -6,9 +6,10 @@ I build high-performance, accessible user interfaces and document my journey of 
 
 ### 🚀 What I'm Up To
 
-- 🔭 **Working on:** [Name of your main project] — A full-stack application for [what it does].
-- 🌱 **Learning:** Advanced System Design and PERN Stack.
-- ✍️ **Writing:** Educational content on X and Medium to help other developers.
+- 🔭 **Working on:** [GridPixels](https://gridpixels.org) - Next.js Starter Kits, Templates
+  and Themes
+- 🌱 **Working With:** Next.js, Typescript, and Tailwind CSS.
+- ✍️ **Content:** Blog, Projects, and Tutorials.
 - 💬 **Ask me about:** React, TypeScript, CSS and Full-Stack Development.
 
 ### 🛠️ My Tech Stack
@@ -28,4 +29,4 @@ I build high-performance, accessible user interfaces and document my journey of 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hackwithnoman/)
 [![X/Twitter](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/HackWithNoman)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat&logo=google-chrome&logoColor=white)](https://bitwizcoder.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat&logo=google-chrome&logoColor=white)](https://hackwithnoman.vercel.app/)
